@@ -10,6 +10,6 @@ match day:
     case 4:
         print("Thursday")
     case 5:
-        print("Friday")
+        print("Movieday")
     case _:
         print("Invalid day")
