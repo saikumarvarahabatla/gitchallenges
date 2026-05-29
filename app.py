@@ -8,7 +8,8 @@ match day:
     case 3:
         print("Wednesday")
     case 4:
-        print("Examday")
+        print("Shopping")
+
     case 5:
         print("Movieday")
     case _:
